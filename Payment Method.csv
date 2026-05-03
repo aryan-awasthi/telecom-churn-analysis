@@ -1,0 +1,4 @@
+payment_method,total,churned,churn_rate
+"Credit Card",1558,318,20.41
+"Bank Withdrawal",3086,1179,38.20
+"Mailed Check",191,89,46.60

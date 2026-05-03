@@ -1,0 +1,4 @@
+internet_type,total_customers,churned_customers,churn_rate
+Cable,601,159,26.46
+"Fiber Optic",3035,1236,40.72
+DSL,1199,191,15.93
