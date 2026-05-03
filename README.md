@@ -68,5 +68,6 @@ Telecom customer dataset containing:
 
 ## 🔹 Author  
 
-Aryan Awasthi
-Business Analyst
+## Aryan Awasthi
+
+## Business Analyst
