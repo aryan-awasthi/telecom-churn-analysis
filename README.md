@@ -1,8 +1,7 @@
 # 📊 Telecom Churn Analysis
 
 ## 🔹 Objective  
-Analyze customer churn behavior and identify key factors influencing customer attrition in a telecom dataset.
-
+This project analyzes customer churn using Tableau dashboards to identify key factors and imporve retention strategy
 ---
 
 ## 🔹 Tools & Technologies  
@@ -14,18 +13,18 @@ Analyze customer churn behavior and identify key factors influencing customer at
 ---
 
 ## 🔹 Dataset  
-Telecom customer dataset containing:
-- Customer demographics  
-- Contract type  
-- Internet service  
-- Payment method  
-- Monthly charges  
-- Churn status  
 
+> [Kaggle Source](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics)
 
 ---
+## Dashboard
+Page 1: Overview
+!<img width="1467" height="797" alt="Image" src="https://github.com/aryan-awasthi/telecom-churn-analysis/blob/main/tableau/Overview.png" />
+Page 2: Churn drivers
+<img width="1482" height="811" alt="Image" src="https://github.com/aryan-awasthi/telecom-churn-analysis/blob/main/tableau/Dashboard%202-2.png" />
 
-## 🔹 Key Analysis  
+
+## 🔹 Key Insights  
 
 ### 1. Overall KPI  
 - Total customers  
@@ -47,14 +46,7 @@ Telecom customer dataset containing:
 
 ---
 
-## 🔹 Key Insights  
 
-- 📉 Month-to-month contracts drive churn  
-- 🌐 Fiber users are high-risk customers  
-- 💳 Payment behavior impacts retention  
-- 💰 Pricing segmentation reveals churn patterns  
-
----
 
 ## 🔹 Business Impact  
 
@@ -70,4 +62,4 @@ Telecom customer dataset containing:
 
 ## Aryan Awasthi
 
-## Business Analyst
+
